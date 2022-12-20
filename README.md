@@ -18,6 +18,22 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```python
+#Program to swap two values.
+#Developed by: JENISHA.J 
+#RegisterNumber: 22002972
+a=int(input())
+b=int(input())
+c=a
+a=b
+b=c
+print("Swapped values are: {} {}".format(a,b))
+
+```
+
+## OUTPUT:
+
+![MODEL](swapping.png)
 
 
 
